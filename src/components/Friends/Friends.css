@@ -1,0 +1,19 @@
+.whole{
+    display: flex;
+}
+.friends{
+    float: left;
+    width: 70%;
+    margin-left: 20px;
+    border-right: 1px solid lightgray;
+}
+.none{
+    display: none;
+}
+.added-friends{
+    background-color: lightslategray;
+    padding-left: 20px;
+    padding-top: 30px;
+    width: 30%;
+    color: white;
+}
